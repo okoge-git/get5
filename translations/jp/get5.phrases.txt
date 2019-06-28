@@ -2,11 +2,10 @@
 {
     "ReadyToVetoInfoMessage"
     {
-        "jp"            "Type {GREEN}!ready {NORMAL}when your team is ready to veto."
+        "jp"            "MAP BANの準備ができたら {GREEN}!ready {NORMAL}と発言してください。"
     }
     "WaitingForCastersReadyInfoMessage"
     {
-        "#format"       "{1:s}"
         "jp"            "Waiting for {1} to type {GREEN}!ready {NORMAL}to begin."
     }
     "ReadyToRestoreBackupInfoMessage"
